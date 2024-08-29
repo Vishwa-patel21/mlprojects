@@ -41,7 +41,7 @@ To get started with this project, clone the repository and install the required 
 git clone https://github.com/Vishwa-patel21/mlprojects.git
 cd mlprojects
 pip install -r requirements.txt
-
+```
 
 
 ## Usage
@@ -49,9 +49,9 @@ pip install -r requirements.txt
 ### Running the Web Application
 
 To run the Flask web application locally:
-
+```bash
 python application.py
-
+```
 The app will be available at [http://127.0.0.1:5000/](http://127.0.0.1:5000/).
 
 
