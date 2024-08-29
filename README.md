@@ -12,8 +12,6 @@ This project demonstrates an end-to-end machine learning pipeline, covering data
 4. [Dataset Description](#dataset-description)
 5. [Model Training and Evaluation](#model-training-and-evaluation)
 6. [Deployment](#deployment)
-7. [Contributing](#contributing)
-8. [License](#license)
 
 ## Project Structure
 
