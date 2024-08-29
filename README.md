@@ -32,13 +32,16 @@ This project demonstrates an end-to-end machine learning pipeline, covering data
 ├── templates                # HTML templates for the web app
 ```
 
+
 ## Installation
 
 To get started with this project, clone the repository and install the required dependencies.
 
+```bash
 git clone https://github.com/Vishwa-patel21/mlprojects.git
 cd mlprojects
 pip install -r requirements.txt
+
 
 
 ## Usage
@@ -109,14 +112,6 @@ These metrics helped us select the best-performing model for our dataset.
 Hyperparameters were fine-tuned using `RandomizedSearchCV` to enhance model accuracy and generalization.
 
 For detailed code and execution steps, please refer to the Jupyter notebooks in this repository.
-
-## Deployment
-
-The trained machine learning model was deployed using Microsoft Azure, ensuring scalability and reliability for real-world application.
-The deployed model can be accessed via the provided Azure endpoint URL.
-Deployment Link: You can include the deployment URL in your README file like this:
-
----
 
 ## Deployment
 
