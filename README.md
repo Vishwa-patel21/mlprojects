@@ -58,7 +58,7 @@ The app will be available at [http://127.0.0.1:5000/](http://127.0.0.1:5000/).
 This section describes the dataset used in the project.
 
 - **Dataset Name**: Student Performance Data
-- **Source**: (Provide the source if available, e.g., Kaggle, UCI Machine Learning Repository)
+- **Source**: Kaggle
 - **Description**: This dataset contains information about students, including their demographic information, parental education level, lunch type, test preparation course completion, and their scores in math, reading, and writing.
 
 ### Features:
